@@ -53,7 +53,7 @@ public class NodoBinario <K, V> {
     }
 
     public static boolean esNodoVacio(NodoBinario nodo) {
-        return (nodo == null);
+        return (nodo == null); // arreglar esta parte
     }
 
     public static NodoBinario nodoVacio() {
